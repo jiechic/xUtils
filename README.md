@@ -303,6 +303,25 @@ LogUtils.d("wyouflf");
 ```
 
 ----
+##导入方法
+
+Gradle:
+```
+    compile 'com.jiechic.library:xUtils:2.6.14'
+```
+
+Maven:
+```
+<dependency>
+    <groupId>com.jiechic.library</groupId>
+    <artifactId>xUtils</artifactId>
+    <version>2.6.14</version>
+</dependency>
+```
+
+或者在该网站下载jar包
+
+----
 # 关于作者
 * Email： <wyouflf@qq.com>, <wyouflf@gmail.com>
 * 有任何建议或者使用中遇到问题都可以给我发邮件, 你也可以加入QQ群：330445659(已满), 275967695, 257323060，技术交流，idea分享 *_*
