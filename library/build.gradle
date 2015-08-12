@@ -29,4 +29,4 @@ android {
     }
 }
 
-apply from: 'bintray.gradle'
+apply from: 'gradle-jcenter-push.gradle'

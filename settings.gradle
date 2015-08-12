@@ -1,5 +1,2 @@
 include ':sample'
 include ':library'
-
-def submoduleProject = project(':library')
-submoduleProject.name = 'xUtils'
